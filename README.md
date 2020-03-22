@@ -1,2 +1,3 @@
 # ArduinoSerialRubberDucky
-Arduino Leonardo/Micro Rubber Ducky device that execute Ducky Script commands received from serial ports.
+Arduino Leonardo/Micro (atmega32u4) Rubber Ducky device that execute Ducky Script commands received from serial ports.
+

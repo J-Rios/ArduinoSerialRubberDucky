@@ -1,0 +1,51 @@
+
+ALT [key name] (ex: ALT F4, ALT SPACE
+CTRL | CONTROL [key name] (ex: CTRL ESC
+CTRL-ALT [key name] (ex: CTRL-ALT DEL
+CTRL-SHIFT [key name] (ex: CTRL-SHIFT ESC
+GUI | WINDOWS [key name] (ex: GUI r, GUI l
+ALT-SHIFT (swap language
+SHIFT [key name] (ex: SHIFT DEL
+STRING [any character of your layout]
+STRING_DELAY [Number] [any character of your layout] (Number is ms delay between each character
+REPEAT [Number] (Repeat last instruction N times
+[key name] (anything in the keyboard.properties
+
+---------------------------------------------------
+
+"//"
+"REM"
+"REPEAT"
+"DEFAULT_DELAY"
+"DEFAULTDELAY"
+"DELAY"
+"STRING"
+"STRING_DELAY"
+"CONTROL" || "CTRL"
+"ALT"
+"SHIFT"
+"CTRL-ALT"
+"CTRL-SHIFT"
+"COMMAND-OPTION"
+"ALT-SHIFT"
+"ALT-TAB"
+"TAB"
+"COMMAND"
+"ESCAPE" || "ESC"
+"DEL" || "DELETE"
+"BREAK" || "PAUSE"
+"CONTROL" || "CTRL"
+"DOWNARROW" || "DOWN"
+"UPARROW" || "UP"
+"LEFTARROW" || "LEFT"
+"RIGHTARROW" || "RIGHT"
+"MENU" || "APP"
+"WINDOWS" || "GUI"
+"PLAY" || "PAUSE" || "MEDIA_PLAY_PAUSE"
+"STOP" || "MEDIA_STOP"
+"MUTE" || "MEDIA_MUTE"
+"VOLUMEUP" || "MEDIA_VOLUME_INC"
+"VOLUMEDOWN" || "MEDIA_VOLUME_DEC"
+"SCROLLLOCK" || "SCROLL_LOCK"
+"NUMLOCK" || "NUM_LOCK"
+"CAPSLOCK" || "CAPS_LOCK"
